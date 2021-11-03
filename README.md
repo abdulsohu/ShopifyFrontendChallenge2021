@@ -1,6 +1,6 @@
 # Spacestagram
 
-The online beta for this project is now available [online](https://cosmostellations.netlify.app/)!
+A beta for this project is now available [online](https://cosmostellations.netlify.app/)!
 
 ## First Look
 
